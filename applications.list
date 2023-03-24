@@ -1,18 +1,26 @@
-# Default-y apps
-#
-org.libreoffice.LibreOffice
+#work
+org.remmina.Remmina 
+com.github.IsmaelMartinez.teams_for_linux 
+
+#media
+com.spotify.Client 
+io.mpv.Mpv
+
+#internet
+org.gnome.Evolution 
 org.mozilla.firefox
+com.microsoft.Edge
+
+#utils
+com.vscodium.codium
+com.usebottles.bottles
 org.freedesktop.Platform.ffmpeg-full//22.08
 com.github.tchx84.Flatseal
 
-# Browsers
-com.microsoft.Edge
+#office
+org.libreoffice.LibreOffice
+org.kde.krita
 
-# Gaming and Streaming Specific
+# Gaming 
 com.valvesoftware.Steam
 org.freedesktop.Platform.VulkanLayer.MangoHud
-com.usebottles.bottles
-
-# Other goodies
-com.spotify.Client
-org.kde.krita
