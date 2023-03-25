@@ -2,7 +2,7 @@
 set -eux
 
 # Reset deconf
-dconf reset -f /
+#dconf reset -f /
 
 # Rollback the snapshot?
 rpm-ostree reset
