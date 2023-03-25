@@ -9,7 +9,7 @@ BITS=./bits
 source $BITS/common
 
 echo "Enabling FlatHub.."
-flatpak remote-modify --enable flathub
+#flatpak remote-modify --enable flathub
 echo "Installing Flatpak(s)..."
 flatpak_install_remote flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak_install flathub applications.list
